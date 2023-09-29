@@ -1,1 +1,2 @@
-# linear-regression
+# Vegetation Cover Estimation: Regression and Kernel-Based Models
+This GitHub repository features code for estimating vegetation cover and greenness. It includes implementations of linear regression and kernel-based models, with and without feature selection, to identify the most accurate approach. Explore various Jupyter notebooks for insights into optimal strategies for this vital environmental analysis.
